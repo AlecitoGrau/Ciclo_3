@@ -1,0 +1,5 @@
+SELECT TOP (1000) [IdUsuario]
+      ,[Nombre]
+      ,[CorreoElectronico]
+      ,[FechaCreacion]
+  FROM [PruebaSyspotec].[dbo].[Usuarios]
