@@ -1,0 +1,17 @@
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Infraestructure\bin\Debug\net8.0\GestionTareas.Infraestructure.deps.json
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Infraestructure\bin\Debug\net8.0\GestionTareas.Infraestructure.runtimeconfig.json
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Infraestructure\bin\Debug\net8.0\GestionTareas.Infraestructure.dll
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Infraestructure\bin\Debug\net8.0\GestionTareas.Infraestructure.pdb
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Infraestructure\bin\Debug\net8.0\GestionTareas.Core.dll
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Infraestructure\bin\Debug\net8.0\GestionTareas.Core.pdb
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Infraestructure\obj\Debug\net8.0\GestionTareas.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Infraestructure\obj\Debug\net8.0\GestionTareas.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Infraestructure\obj\Debug\net8.0\GestionTareas.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Infraestructure\obj\Debug\net8.0\GestionTareas.Infraestructure.AssemblyInfo.cs
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Infraestructure\obj\Debug\net8.0\GestionTareas.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Infraestructure\obj\Debug\net8.0\GestionTareas.Infraestructure.csproj.CopyComplete
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Infraestructure\obj\Debug\net8.0\GestionTareas.Infraestructure.dll
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Infraestructure\obj\Debug\net8.0\refint\GestionTareas.Infraestructure.dll
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Infraestructure\obj\Debug\net8.0\GestionTareas.Infraestructure.pdb
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Infraestructure\obj\Debug\net8.0\GestionTareas.Infraestructure.genruntimeconfig.cache
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Infraestructure\obj\Debug\net8.0\ref\GestionTareas.Infraestructure.dll

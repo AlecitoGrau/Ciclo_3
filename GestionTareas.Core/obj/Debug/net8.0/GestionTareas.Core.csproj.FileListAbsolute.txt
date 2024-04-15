@@ -1,0 +1,11 @@
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Core\bin\Debug\net8.0\GestionTareas.Core.deps.json
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Core\bin\Debug\net8.0\GestionTareas.Core.dll
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Core\bin\Debug\net8.0\GestionTareas.Core.pdb
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Core\obj\Debug\net8.0\GestionTareas.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Core\obj\Debug\net8.0\GestionTareas.Core.AssemblyInfoInputs.cache
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Core\obj\Debug\net8.0\GestionTareas.Core.AssemblyInfo.cs
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Core\obj\Debug\net8.0\GestionTareas.Core.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Core\obj\Debug\net8.0\GestionTareas.Core.dll
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Core\obj\Debug\net8.0\refint\GestionTareas.Core.dll
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Core\obj\Debug\net8.0\GestionTareas.Core.pdb
+C:\Users\Stephanie\Desktop\PRUEBA\GestionTareas\GestionTareas.Core\obj\Debug\net8.0\ref\GestionTareas.Core.dll
